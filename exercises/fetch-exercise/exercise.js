@@ -19,7 +19,6 @@ a different greeting should be displayed in the box.
 
 fetch(" https://www.greetingsapi.com/random")
   .then(function (response) {
-    // return response.text();
     return response.json();
   })
   .then(function (greeting) {
