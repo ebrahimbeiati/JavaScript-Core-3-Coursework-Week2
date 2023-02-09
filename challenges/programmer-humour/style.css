@@ -1,0 +1,8 @@
+body{
+    color: bisque;
+    align-items: center;
+    display: flex;   
+    justify-content: center;
+    padding-top: 50%;
+    height: 30px;
+}
